@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 05392e6524f427140baf97f0e691d21e
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -5648776056066462316
+    second: basepose
+  - first:
+      74: 131491538518784839
+    second: human_pistol_crouchalert_idle_emote
+  - first:
+      74: 2058740627545123424
+    second: human_pistol_crouchalert_walkbackward
+  - first:
+      74: -1644703323864581237
+    second: human_pistol_crouchalert_walkforward
+  - first:
+      74: 4233368355158411048
+    second: human_pistol_crouch_reload
+  - first:
+      74: -1265298979927787437
+    second: human_pistol_crouch_shoot
+  - first:
+      74: -2595950535521579872
+    second: human_pistol_crouch_walkforward
+  - first:
+      74: 8317060925664318417
+    second: human_pistol_jetpack_hover
+  - first:
+      74: -2908068320439686277
+    second: human_pistol_sprint
+  - first:
+      74: -7973912577707334815
+    second: human_pistol_standalert_idle_emote
+  - first:
+      74: -4189574368465333112
+    second: human_pistol_standalert_runbackward
+  - first:
+      74: -1120037811320752402
+    second: human_pistol_standalert_runforward_full
+  - first:
+      74: -8596635894302026441
+    second: human_pistol_standalert_walkforward_full
+  - first:
+      74: -5262330641892976195
+    second: human_pistol_stand_reload
+  - first:
+      74: -7187481720601300411
+    second: human_pistol_stand_runforward
+  - first:
+      74: -8099555259894100723
+    second: human_pistol_stand_shoot
+  - first:
+      74: 2804099417937926692
+    second: human_pistol_stand_walkforward
+  - first:
+      74: 2739368138170445994
+    second: human_tool_crouch_idle_emote
+  - first:
+      74: 8598966784179829622
+    second: human_tool_crouch_shoot
+  - first:
+      74: 4599301614524620701
+    second: human_tool_crouch_walkbackward
+  - first:
+      74: -7053709088904774440
+    second: human_tool_crouch_walkforward
+  - first:
+      74: 3094614665295914513
+    second: human_tool_diveforward
+  - first:
+      74: 6170583147908656036
+    second: human_tool_fall
+  - first:
+      74: 4452023679128383115
+    second: human_tool_jump
+  - first:
+      74: -1716568467494788324
+    second: human_tool_jumpfall
+  - first:
+      74: 4292189199942872562
+    second: human_tool_landhard
+  - first:
+      74: 7319366996188761469
+    second: human_tool_landsoft
+  - first:
+      74: -8578030883524193484
+    second: human_tool_sprint
+  - first:
+      74: 5678321659534376721
+    second: human_tool_stand_idle_checkweapon_full
+  - first:
+      74: 8530749414467108210
+    second: human_tool_stand_idle_emote
+  - first:
+      74: 7300377442037099012
+    second: human_tool_stand_idle_lookaround
+  - first:
+      74: 6866064301344088182
+    second: human_tool_stand_runbackward
+  - first:
+      74: -4617366846684629336
+    second: human_tool_stand_runforward
+  - first:
+      74: 5272678213454135390
+    second: human_tool_stand_shoot
+  - first:
+      74: 7432521424495757809
+    second: human_tool_stand_shoot_secondary
+  - first:
+      74: -2121815798559664311
+    second: human_tool_stand_shoot_secondary2
+  - first:
+      74: -8524861879704115393
+    second: human_tool_stand_walkforward
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'human_pistol_crouch_reload' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'bone_a_spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_pistol_crouch_shoot' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_neck' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\nClip 'human_pistol_jetpack_hover' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'bone_a_spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_pistol_sprint' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_pistol_standalert_runbackward' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_pistol_standalert_runforward_full' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_pistol_standalert_walkforward_full' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_pistol_stand_reload' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_pistol_stand_runforward' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'human_pistol_stand_shoot'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_pistol_stand_walkforward' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\nClip 'human_tool_crouch_idle_emote' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_crouch_shoot' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_diveforward' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_jump' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_jumpfall' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_landhard' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_landsoft' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_sprint' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_stand_idle_checkweapon_full' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_stand_idle_emote' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\nClip 'human_tool_stand_idle_lookaround'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_stand_runbackward' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'human_tool_stand_runforward'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_stand_shoot' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_stand_shoot_secondary' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_stand_shoot_secondary2' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_tool_stand_walkforward' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: bone_root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_b_spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_ribcage
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_upperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_upperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: eff_ribcage
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: rep_inf_ep3trooper(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rep_inf_ep3trooper
+      parentName: rep_inf_ep3trooper(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_root
+      parentName: rep_inf_ep3trooper
+      position: {x: -0, y: 1.1593735, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_a_spine
+      parentName: bone_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_a_spine
+      parentName: root_a_spine
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0.6758105, w: 0.7370755}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: bone_b_spine
+      parentName: bone_a_spine
+      position: {x: -0.16341491, y: 1.3877788e-17, z: 6.162976e-33}
+      rotation: {x: -0, y: -0, z: -0.016106067, w: 0.9998703}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: bone_ribcage
+      parentName: bone_b_spine
+      position: {x: -0.15920438, y: -6.938894e-18, z: 0}
+      rotation: {x: -0.00000004327864, y: -0.0000000409838, z: -0.03834015, w: 0.9992648}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: eff_ribcage
+      parentName: bone_ribcage
+      position: {x: -0.23511481, y: -0.000075463206, z: -2.6102983e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_l_clavicle
+      parentName: eff_ribcage
+      position: {x: 2.220446e-16, y: 1.8735014e-16, z: -1.9852333e-23}
+      rotation: {x: 0.70706606, y: 0.0075929137, z: -0.70706606, w: 0.0075929137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_l_clavicle
+      parentName: root_l_clavicle
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.008401173, y: 0.14116801, z: 0.058809932, w: -0.9882017}
+      scale: {x: 1, y: 1.0000005, z: 1.0000004}
+    - name: eff_l_clavicle
+      parentName: bone_l_clavicle
+      position: {x: -0.24010226, y: 0.00008089468, z: 0.00007955645}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_l_upperarm
+      parentName: eff_l_clavicle
+      position: {x: -5.551115e-17, y: 2.0816682e-17, z: -2.220446e-16}
+      rotation: {x: 0.0083989855, y: 0.14104468, z: 0.05866825, w: 0.98822767}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_l_upperarm
+      parentName: root_l_upperarm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000011643387, y: -0.007489482, z: -0.036809597, w: 0.9992943}
+      scale: {x: 1, y: 1.0000005, z: 1.0000007}
+    - name: bone_l_forearm
+      parentName: bone_l_upperarm
+      position: {x: -0.24016154, y: 5.2041704e-18, z: 0}
+      rotation: {x: -0.0016477575, y: 0.0065218173, z: 0.069595575, w: 0.99755263}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000007}
+    - name: eff_l_forearm
+      parentName: bone_l_forearm
+      position: {x: -0.30356613, y: 0.0000410676, z: -0.00007008144}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_l_hand
+      parentName: eff_l_forearm
+      position: {x: 4.440892e-16, y: 2.7755576e-17, z: 4.440892e-16}
+      rotation: {x: 0.0032368284, y: 0.02316586, z: -0.13834196, w: 0.99010825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_l_hand
+      parentName: root_l_hand
+      position: {x: -0, y: 1.7347235e-18, z: 0}
+      rotation: {x: 0.0039559505, y: -0.00061783934, z: 0.13610378, w: 0.99068654}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+    - name: eff_l_hand
+      parentName: bone_l_hand
+      position: {x: -0.12713319, y: -0.000026062131, z: 0.000023794135}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_r_clavicle
+      parentName: eff_ribcage
+      position: {x: 2.220446e-16, y: 1.8735014e-16, z: 3.4987347e-16}
+      rotation: {x: 0.70706606, y: 0.0075929137, z: 0.70706606, w: -0.0075929137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_r_clavicle
+      parentName: root_r_clavicle
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.008401103, y: 0.14116746, z: -0.05880983, w: 0.9882017}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000006}
+    - name: eff_r_clavicle
+      parentName: bone_r_clavicle
+      position: {x: -0.24010226, y: 0.00008089468, z: -0.00007955645}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_r_upperarm
+      parentName: eff_r_clavicle
+      position: {x: -3.330669e-16, y: 2.910866e-15, z: 1.9984014e-15}
+      rotation: {x: -0.00839849, y: -0.14104465, z: 0.058668323, w: 0.98822767}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_r_upperarm
+      parentName: root_r_upperarm
+      position: {x: -0, y: 0, z: 2.220446e-16}
+      rotation: {x: -0.000011628486, y: -0.0074896617, z: 0.036809627, w: -0.9992942}
+      scale: {x: 1.0000014, y: 1.0000007, z: 1.0000006}
+    - name: bone_r_forearm
+      parentName: bone_r_upperarm
+      position: {x: -0.24016154, y: 0, z: 0}
+      rotation: {x: -0.001647563, y: 0.0065219305, z: -0.06959603, w: -0.9975526}
+      scale: {x: 1.000001, y: 1.0000002, z: 1.0000005}
+    - name: eff_r_forearm
+      parentName: bone_r_forearm
+      position: {x: -0.30356613, y: 0.0000410676, z: 0.00007008144}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_r_hand
+      parentName: eff_r_forearm
+      position: {x: 6.661338e-16, y: -2.7755576e-17, z: 0}
+      rotation: {x: -0.0032368284, y: -0.02316586, z: -0.13834196, w: 0.99010825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_r_hand
+      parentName: root_r_hand
+      position: {x: -0, y: 0, z: -2.220446e-16}
+      rotation: {x: 0.0023838761, y: -0.00044674415, z: -0.13610187, w: -0.99069196}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1}
+    - name: eff_r_hand
+      parentName: bone_r_hand
+      position: {x: -0.12713307, y: -0.000011026859, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hp_weapons
+      parentName: bone_r_hand
+      position: {x: -0.16623272, y: -0.06631732, z: 0.0069252104}
+      rotation: {x: 0.7356259, y: 0.09273545, z: -0.66803443, w: -0.063124545}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_neck
+      parentName: eff_ribcage
+      position: {x: 2.220446e-16, y: 1.8735014e-16, z: -1.9852333e-23}
+      rotation: {x: 0, y: 0, z: 0.7149271, w: 0.699199}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_neck
+      parentName: root_neck
+      position: {x: -0, y: 0, z: 3.9443045e-31}
+      rotation: {x: 0, y: 0, z: -0.7852695, w: 0.61915416}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_head
+      parentName: bone_neck
+      position: {x: -0.13112861, y: 0, z: 5.04871e-29}
+      rotation: {x: 0.00000030461857, y: 0.0000002911489, z: -0.117461026, w: -0.9930775}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: eff_head
+      parentName: bone_head
+      position: {x: -0.19997418, y: 0, z: -2.7885199e-14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pelvis
+      parentName: bone_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_r_thigh
+      parentName: bone_pelvis
+      position: {x: 0.09428042, y: -0.10493745, z: 0.00911769}
+      rotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_r_thigh
+      parentName: root_r_thigh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.056378357, y: -0.054674707, z: 0.7156527, w: 0.694027}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: bone_r_calf
+      parentName: bone_r_thigh
+      position: {x: -0.48, y: -6.938894e-18, z: 0}
+      rotation: {x: -0.00000001862645, y: 0.000000048428767, z: -0.12963893, w: 0.9915613}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: eff_r_calf
+      parentName: bone_r_calf
+      position: {x: -0.4699999, y: 0.00011447817, z: -0.000055550907}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_r_foot
+      parentName: eff_r_calf
+      position: {x: 5.551115e-17, y: -9.7144515e-17, z: 5.551115e-16}
+      rotation: {x: -0.48232028, y: -0.51945055, z: -0.39313635, w: 0.58564687}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_r_foot
+      parentName: root_r_foot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7101587, y: 0.22480881, z: 0.6360056, w: 0.20157523}
+      scale: {x: 1.0000008, y: 1.0000012, z: 1.0000006}
+    - name: bone_r_toe
+      parentName: bone_r_foot
+      position: {x: -0.165, y: 1.3877788e-17, z: -2.7755576e-17}
+      rotation: {x: 0.000000007596098, y: -0.0000001085136, z: 0.30310258, w: 0.952958}
+      scale: {x: 1, y: 0.9999996, z: 0.99999994}
+    - name: eff_r_toe
+      parentName: bone_r_toe
+      position: {x: -0.09999997, y: -0.0000020712614, z: -0.000033519565}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_l_thigh
+      parentName: bone_pelvis
+      position: {x: -0.09428042, y: -0.10493745, z: 0.00911769}
+      rotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_l_thigh
+      parentName: root_l_thigh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0564622, y: 0.05458817, z: 0.71671665, w: 0.6929282}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000005}
+    - name: bone_l_calf
+      parentName: bone_l_thigh
+      position: {x: -0.48, y: 0, z: 0}
+      rotation: {x: -0.0000000037252899, y: -0.000000119209275, z: -0.13268064, w: 0.9911589}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: eff_l_calf
+      parentName: bone_l_calf
+      position: {x: -0.46999988, y: 0.000054374337, z: 0.00007279982}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_l_foot
+      parentName: eff_l_calf
+      position: {x: -6.938894e-17, y: 2.7755576e-17, z: 1.110223e-16}
+      rotation: {x: 0.48232052, y: 0.51945037, z: -0.3931366, w: 0.58564657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_l_foot
+      parentName: root_l_foot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.71031266, y: 0.2237966, z: -0.6365137, w: -0.20055228}
+      scale: {x: 1.0000006, y: 1.0000012, z: 1.0000005}
+    - name: bone_l_toe
+      parentName: bone_l_foot
+      position: {x: -0.165, y: 0, z: 0}
+      rotation: {x: -0.000000047293717, y: 0.00000004303001, z: 0.3012746, w: 0.95353746}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000004}
+    - name: eff_l_toe
+      parentName: bone_l_toe
+      position: {x: -0.09999997, y: 0, z: 0.000030191819}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

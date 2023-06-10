@@ -1,0 +1,37 @@
+[Warning] Skeleton buffer sizes don't match up! Info Bone Count: 31, Bone Names: 30, Bone Parents (-1): 29, Bone Rotations: 31, Bone Positions: 31 - Chunk Position: 50234704 - IN skel.cpp:62
+[Error] Broken Skeleton! Sizes don't match up!
+	Count: 31
+	Names: 30
+	Parents (-1): 29
+	Rotations: 31
+	Positions: 31 - IN Model.cpp:94
+[Error] Broken Skeleton! Sizes don't match up!
+	Count: 31
+	Names: 30
+	Parents (-1): 29
+	Rotations: 31
+	Positions: 31 - IN Model.cpp:94
+[Warning] Found sound clip with a block align of 1.1243694! Data length: 0xfabc00, Sample count: 14614528 at pos: 0x6a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 1.1203116! Data length: 0xafe390, Sample count: 10289152 at pos: 0x9a - IN SoundClip.cpp:75
+[Warning] [_pad] Ended up outside of current chunk (end is at: 0x1ab8808, we are at: 0x1ab8810! Too many bytes read: 8 - IN BaseChunk.cpp:199
+[Warning] [_pad] Forwarded to next header at 0x1ab8810, skipped 0 bytes! - IN BaseChunk.cpp:213
+[Warning] Found sound clip with a block align of 1.01953125! Data length: 0xa3200, Sample count: 655360 at pos: 0x1ab886a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 1.1164285! Data length: 0x70c260, Sample count: 6619136 at pos: 0x1ab889a - IN SoundClip.cpp:75
+[Warning] [_pad] Ended up outside of current chunk (end is at: 0x2287008, we are at: 0x2287010! Too many bytes read: 8 - IN BaseChunk.cpp:199
+[Warning] [_pad] Forwarded to next header at 0x2287010, skipped 0 bytes! - IN BaseChunk.cpp:213
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0xdde8, Sample count: 100992 at pos: 0x228706a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0xda64, Sample count: 99392 at pos: 0x228709a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0x9ad4, Sample count: 70464 at pos: 0x22870ca - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0x10aa0, Sample count: 121344 at pos: 0x22870fa - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0xdec0, Sample count: 101376 at pos: 0x228712a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0xb9a0, Sample count: 84480 at pos: 0x228715a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0x11868, Sample count: 127616 at pos: 0x228718a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0xf858, Sample count: 113024 at pos: 0x22871ba - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0xb4d8, Sample count: 82304 at pos: 0x22871ea - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0xac68, Sample count: 78464 at pos: 0x228721a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0x335ac, Sample count: 373952 at pos: 0x228724a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0xa584, Sample count: 75328 at pos: 0x228727a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0x12438, Sample count: 132992 at pos: 0x22872aa - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0x37f8, Sample count: 25472 at pos: 0x22872da - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0x7d28, Sample count: 56960 at pos: 0x228730a - IN SoundClip.cpp:75
+[Warning] Found sound clip with a block align of 0.5625! Data length: 0x8acc, Sample count: 63168 at pos: 0x228733a - IN SoundClip.cpp:75

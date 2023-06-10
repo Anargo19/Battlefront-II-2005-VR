@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 491df6389950892479838612bbc154cb
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -5648776056066462316
+    second: basepose
+  - first:
+      74: 131491538518784839
+    second: human_pistol_crouchalert_idle_emote
+  - first:
+      74: 2058740627545123424
+    second: human_pistol_crouchalert_walkbackward
+  - first:
+      74: -1644703323864581237
+    second: human_pistol_crouchalert_walkforward
+  - first:
+      74: 4233368355158411048
+    second: human_pistol_crouch_reload
+  - first:
+      74: -1265298979927787437
+    second: human_pistol_crouch_shoot
+  - first:
+      74: -2595950535521579872
+    second: human_pistol_crouch_walkforward
+  - first:
+      74: 8317060925664318417
+    second: human_pistol_jetpack_hover
+  - first:
+      74: -2908068320439686277
+    second: human_pistol_sprint
+  - first:
+      74: -7973912577707334815
+    second: human_pistol_standalert_idle_emote
+  - first:
+      74: -4189574368465333112
+    second: human_pistol_standalert_runbackward
+  - first:
+      74: -1120037811320752402
+    second: human_pistol_standalert_runforward_full
+  - first:
+      74: -8596635894302026441
+    second: human_pistol_standalert_walkforward_full
+  - first:
+      74: -5262330641892976195
+    second: human_pistol_stand_reload
+  - first:
+      74: -7187481720601300411
+    second: human_pistol_stand_runforward
+  - first:
+      74: -8099555259894100723
+    second: human_pistol_stand_shoot
+  - first:
+      74: 2804099417937926692
+    second: human_pistol_stand_walkforward
+  - first:
+      74: 2739368138170445994
+    second: human_tool_crouch_idle_emote
+  - first:
+      74: 8598966784179829622
+    second: human_tool_crouch_shoot
+  - first:
+      74: 4599301614524620701
+    second: human_tool_crouch_walkbackward
+  - first:
+      74: -7053709088904774440
+    second: human_tool_crouch_walkforward
+  - first:
+      74: 3094614665295914513
+    second: human_tool_diveforward
+  - first:
+      74: 6170583147908656036
+    second: human_tool_fall
+  - first:
+      74: 4452023679128383115
+    second: human_tool_jump
+  - first:
+      74: -1716568467494788324
+    second: human_tool_jumpfall
+  - first:
+      74: 4292189199942872562
+    second: human_tool_landhard
+  - first:
+      74: 7319366996188761469
+    second: human_tool_landsoft
+  - first:
+      74: -8578030883524193484
+    second: human_tool_sprint
+  - first:
+      74: 5678321659534376721
+    second: human_tool_stand_idle_checkweapon_full
+  - first:
+      74: 8530749414467108210
+    second: human_tool_stand_idle_emote
+  - first:
+      74: 7300377442037099012
+    second: human_tool_stand_idle_lookaround
+  - first:
+      74: 6866064301344088182
+    second: human_tool_stand_runbackward
+  - first:
+      74: -4617366846684629336
+    second: human_tool_stand_runforward
+  - first:
+      74: 5272678213454135390
+    second: human_tool_stand_shoot
+  - first:
+      74: 7432521424495757809
+    second: human_tool_stand_shoot_secondary
+  - first:
+      74: -2121815798559664311
+    second: human_tool_stand_shoot_secondary2
+  - first:
+      74: -8524861879704115393
+    second: human_tool_stand_walkforward
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

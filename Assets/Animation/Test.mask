@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Test
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_l_thigh
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_l_thigh/bone_l_thigh
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_l_thigh/bone_l_thigh/bone_l_calf
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_l_thigh/bone_l_thigh/bone_l_calf/eff_l_calf
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_l_thigh/bone_l_thigh/bone_l_calf/eff_l_calf/root_l_foot
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_l_thigh/bone_l_thigh/bone_l_calf/eff_l_calf/root_l_foot/bone_l_foot
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_l_thigh/bone_l_thigh/bone_l_calf/eff_l_calf/root_l_foot/bone_l_foot/bone_l_toe
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_l_thigh/bone_l_thigh/bone_l_calf/eff_l_calf/root_l_foot/bone_l_foot/bone_l_toe/eff_l_toe
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_r_thigh
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_r_thigh/bone_r_thigh
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_r_thigh/bone_r_thigh/bone_r_calf
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_r_thigh/bone_r_thigh/bone_r_calf/eff_r_calf
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_r_thigh/bone_r_thigh/bone_r_calf/eff_r_calf/root_r_foot
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_r_thigh/bone_r_thigh/bone_r_calf/eff_r_calf/root_r_foot/bone_r_foot
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_r_thigh/bone_r_thigh/bone_r_calf/eff_r_calf/root_r_foot/bone_r_foot/bone_r_toe
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/bone_pelvis/root_r_thigh/bone_r_thigh/bone_r_calf/eff_r_calf/root_r_foot/bone_r_foot/bone_r_toe/eff_r_toe
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_l_clavicle
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_l_clavicle/bone_l_clavicle
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_l_clavicle/bone_l_clavicle/eff_l_clavicle
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_l_clavicle/bone_l_clavicle/eff_l_clavicle/root_l_upperarm
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_l_clavicle/bone_l_clavicle/eff_l_clavicle/root_l_upperarm/bone_l_upperarm
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_l_clavicle/bone_l_clavicle/eff_l_clavicle/root_l_upperarm/bone_l_upperarm/bone_l_forearm
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_l_clavicle/bone_l_clavicle/eff_l_clavicle/root_l_upperarm/bone_l_upperarm/bone_l_forearm/eff_l_forearm
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_l_clavicle/bone_l_clavicle/eff_l_clavicle/root_l_upperarm/bone_l_upperarm/bone_l_forearm/eff_l_forearm/root_l_hand
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_l_clavicle/bone_l_clavicle/eff_l_clavicle/root_l_upperarm/bone_l_upperarm/bone_l_forearm/eff_l_forearm/root_l_hand/bone_l_hand
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_l_clavicle/bone_l_clavicle/eff_l_clavicle/root_l_upperarm/bone_l_upperarm/bone_l_forearm/eff_l_forearm/root_l_hand/bone_l_hand/eff_l_hand
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_neck
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_neck/bone_neck
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_neck/bone_neck/bone_head
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_neck/bone_neck/bone_head/eff_head
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle/bone_r_clavicle
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle/bone_r_clavicle/eff_r_clavicle
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle/bone_r_clavicle/eff_r_clavicle/root_r_upperarm
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle/bone_r_clavicle/eff_r_clavicle/root_r_upperarm/bone_r_upperarm
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle/bone_r_clavicle/eff_r_clavicle/root_r_upperarm/bone_r_upperarm/bone_r_forearm
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle/bone_r_clavicle/eff_r_clavicle/root_r_upperarm/bone_r_upperarm/bone_r_forearm/eff_r_forearm
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle/bone_r_clavicle/eff_r_clavicle/root_r_upperarm/bone_r_upperarm/bone_r_forearm/eff_r_forearm/root_r_hand
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle/bone_r_clavicle/eff_r_clavicle/root_r_upperarm/bone_r_upperarm/bone_r_forearm/eff_r_forearm/root_r_hand/bone_r_hand
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle/bone_r_clavicle/eff_r_clavicle/root_r_upperarm/bone_r_upperarm/bone_r_forearm/eff_r_forearm/root_r_hand/bone_r_hand/eff_r_hand
+    m_Weight: 1
+  - m_Path: rep_inf_ep3trooper/bone_root/root_a_spine/bone_a_spine/bone_b_spine/bone_ribcage/eff_ribcage/root_r_clavicle/bone_r_clavicle/eff_r_clavicle/root_r_upperarm/bone_r_upperarm/bone_r_forearm/eff_r_forearm/root_r_hand/bone_r_hand/hp_weapons
+    m_Weight: 1

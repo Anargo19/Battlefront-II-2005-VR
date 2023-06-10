@@ -1,0 +1,2044 @@
+fileFormatVersion: 2
+guid: b18c6371cfdfe0a45a5c0789537d6cfd
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -5648776056066462316
+    second: basepose
+  - first:
+      74: -3625561658337737351
+    second: human_rifle_crouchalert_idle_emote_full
+  - first:
+      74: 4419912130785183867
+    second: human_rifle_crouchalert_walkbackward
+  - first:
+      74: 8447260721643759979
+    second: human_rifle_crouchalert_walkforward
+  - first:
+      74: 8152694781062122938
+    second: human_rifle_crouch_hitfront
+  - first:
+      74: 4636475518030003855
+    second: human_rifle_crouch_hitleft
+  - first:
+      74: 6252864924047308423
+    second: human_rifle_crouch_hitright
+  - first:
+      74: -2023271854485593801
+    second: human_rifle_crouch_idle_emote_full
+  - first:
+      74: -6629419811359682294
+    second: human_rifle_crouch_idle_takeknee_lower
+  - first:
+      74: 3777212158628961157
+    second: human_rifle_crouch_reload_full
+  - first:
+      74: 2676442488340026417
+    second: human_rifle_crouch_shoot_full
+  - first:
+      74: -7408518530294488610
+    second: human_rifle_crouch_turnleft
+  - first:
+      74: 8825651016784391091
+    second: human_rifle_crouch_turnright
+  - first:
+      74: 3621910523527785230
+    second: human_rifle_crouch_walkbackward
+  - first:
+      74: 4559104159173968037
+    second: human_rifle_crouch_walkforward
+  - first:
+      74: 513573316909676872
+    second: human_rifle_standalert_idle_emote_full
+  - first:
+      74: -5668703883849693034
+    second: human_rifle_standalert_runbackward
+  - first:
+      74: -8159300085799621616
+    second: human_rifle_standalert_runforward
+  - first:
+      74: -5150269000442415849
+    second: human_rifle_standalert_walkforward
+  - first:
+      74: 9170682378296624814
+    second: human_rifle_stand_deadhero_full
+  - first:
+      74: 1431725475090152052
+    second: human_rifle_stand_death_backward
+  - first:
+      74: -6965227748847741167
+    second: human_rifle_stand_death_forward
+  - first:
+      74: -3588066063495783895
+    second: human_rifle_stand_death_left
+  - first:
+      74: 8472727055497034991
+    second: human_rifle_stand_death_right
+  - first:
+      74: 8418539532293131275
+    second: human_rifle_stand_getupback
+  - first:
+      74: 3637672130499953706
+    second: human_rifle_stand_getupfront
+  - first:
+      74: 2770185771871653898
+    second: human_rifle_stand_hitback
+  - first:
+      74: -2195225601751926610
+    second: human_rifle_stand_hitfront
+  - first:
+      74: 3095751087728821475
+    second: human_rifle_stand_hitleft
+  - first:
+      74: -7487309810176487560
+    second: human_rifle_stand_hitright
+  - first:
+      74: 912727138490938715
+    second: human_rifle_stand_idle_checkweapon_full
+  - first:
+      74: -538908720782583241
+    second: human_rifle_stand_idle_emote_full
+  - first:
+      74: 5966944506686685585
+    second: human_rifle_stand_idle_lookaround_full
+  - first:
+      74: -6556368655558546734
+    second: human_rifle_stand_reload_full
+  - first:
+      74: -4484351966807170851
+    second: human_rifle_stand_runbackward
+  - first:
+      74: -3045506664232014548
+    second: human_rifle_stand_runforward
+  - first:
+      74: -2162279372200108364
+    second: human_rifle_stand_shoot_full
+  - first:
+      74: -611882073442733480
+    second: human_rifle_stand_shoot_secondary2_full
+  - first:
+      74: 9197672669482105911
+    second: human_rifle_stand_shoot_secondary_full
+  - first:
+      74: -3589292521388965686
+    second: human_rifle_stand_turnleft
+  - first:
+      74: -1639841170106994504
+    second: human_rifle_stand_turnright
+  - first:
+      74: 747285677383356778
+    second: human_rifle_stand_walkforward
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'human_rifle_crouchalert_walkbackward' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_crouchalert_walkforward' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_pelvis' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\nClip 'human_rifle_crouch_idle_emote_full'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_crouch_idle_takeknee_lower' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'bone_pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'human_rifle_crouch_reload_full'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_crouch_shoot_full' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\nClip 'human_rifle_crouch_turnleft' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_crouch_walkbackward' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_pelvis' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\nClip 'human_rifle_crouch_walkforward'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_standalert_runbackward' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_standalert_runforward' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_neck' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'human_rifle_standalert_walkforward'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_deadhero_full' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_death_backward' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_death_forward' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_death_left' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_death_right' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_getupback' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_getupfront' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_hitback' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_hitfront' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_hitleft' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_hitright' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_idle_checkweapon_full' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_idle_emote_full' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\nClip 'human_rifle_stand_idle_lookaround_full'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_reload_full' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_runbackward' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_runforward' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_a_spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'bone_neck' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_shoot_full' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\nClip 'human_rifle_stand_shoot_secondary2_full'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_shoot_secondary_full' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'bone_a_spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'bone_neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'human_rifle_stand_turnleft' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'bone_pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\nClip 'human_rifle_stand_walkforward' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'bone_a_spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'bone_pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: basepose
+      takeName: basepose
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouchalert_idle_emote_full
+      takeName: human_rifle_crouchalert_idle_emote_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouchalert_walkbackward
+      takeName: human_rifle_crouchalert_walkbackward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouchalert_walkforward
+      takeName: human_rifle_crouchalert_walkforward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_hitfront
+      takeName: human_rifle_crouch_hitfront
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_hitleft
+      takeName: human_rifle_crouch_hitleft
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_hitright
+      takeName: human_rifle_crouch_hitright
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_idle_emote_full
+      takeName: human_rifle_crouch_idle_emote_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_idle_takeknee_lower
+      takeName: human_rifle_crouch_idle_takeknee_lower
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_reload_full
+      takeName: human_rifle_crouch_reload_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_shoot_full
+      takeName: human_rifle_crouch_shoot_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_turnleft
+      takeName: human_rifle_crouch_turnleft
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_turnright
+      takeName: human_rifle_crouch_turnright
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_walkbackward
+      takeName: human_rifle_crouch_walkbackward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_crouch_walkforward
+      takeName: human_rifle_crouch_walkforward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_standalert_idle_emote_full
+      takeName: human_rifle_standalert_idle_emote_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_standalert_runbackward
+      takeName: human_rifle_standalert_runbackward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_standalert_runforward
+      takeName: human_rifle_standalert_runforward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_standalert_walkforward
+      takeName: human_rifle_standalert_walkforward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_deadhero_full
+      takeName: human_rifle_stand_deadhero_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_death_backward
+      takeName: human_rifle_stand_death_backward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_death_forward
+      takeName: human_rifle_stand_death_forward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_death_left
+      takeName: human_rifle_stand_death_left
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_death_right
+      takeName: human_rifle_stand_death_right
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_getupback
+      takeName: human_rifle_stand_getupback
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_getupfront
+      takeName: human_rifle_stand_getupfront
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_hitback
+      takeName: human_rifle_stand_hitback
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_hitfront
+      takeName: human_rifle_stand_hitfront
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_hitleft
+      takeName: human_rifle_stand_hitleft
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_hitright
+      takeName: human_rifle_stand_hitright
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_idle_checkweapon_full
+      takeName: human_rifle_stand_idle_checkweapon_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_idle_emote_full
+      takeName: human_rifle_stand_idle_emote_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_idle_lookaround_full
+      takeName: human_rifle_stand_idle_lookaround_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_reload_full
+      takeName: human_rifle_stand_reload_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_runbackward
+      takeName: human_rifle_stand_runbackward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_runforward
+      takeName: human_rifle_stand_runforward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_shoot_full
+      takeName: human_rifle_stand_shoot_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_shoot_secondary2_full
+      takeName: human_rifle_stand_shoot_secondary2_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_shoot_secondary_full
+      takeName: human_rifle_stand_shoot_secondary_full
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_turnleft
+      takeName: human_rifle_stand_turnleft
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_turnright
+      takeName: human_rifle_stand_turnright
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: human_rifle_stand_walkforward
+      takeName: human_rifle_stand_walkforward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: bone_root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_b_spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_ribcage
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_upperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_upperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_l_toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bone_r_toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: eff_ribcage
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: rep_inf_ep3spacepilot(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rep_inf_ep3spacepilot
+      parentName: rep_inf_ep3spacepilot(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_root
+      parentName: rep_inf_ep3spacepilot
+      position: {x: -0, y: 1.1593735, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_a_spine
+      parentName: bone_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_a_spine
+      parentName: root_a_spine
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.67581046, w: 0.7370755}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_b_spine
+      parentName: bone_a_spine
+      position: {x: -0.16341491, y: 1.3877788e-17, z: 6.162976e-33}
+      rotation: {x: -0.00000034781328, y: -0.00000023803695, z: -0.016106842, w: 0.99987036}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000006}
+    - name: bone_ribcage
+      parentName: bone_b_spine
+      position: {x: -0.15920438, y: -6.938894e-18, z: 0}
+      rotation: {x: -0.000000031390947, y: 0.000000030271245, z: 0.03834019, w: -0.9992647}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.99999946}
+    - name: eff_ribcage
+      parentName: bone_ribcage
+      position: {x: -0.23511481, y: -0.000075463206, z: -2.6102983e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_l_clavicle
+      parentName: eff_ribcage
+      position: {x: 2.220446e-16, y: 1.5959456e-16, z: -1.9852335e-23}
+      rotation: {x: 0.70706606, y: 0.0075929137, z: -0.70706606, w: 0.0075929137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_l_clavicle
+      parentName: root_l_clavicle
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.008401139, y: -0.14116797, z: -0.058809847, w: 0.9882016}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+    - name: eff_l_clavicle
+      parentName: bone_l_clavicle
+      position: {x: -0.24010226, y: 0.00008089468, z: 0.00007955645}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_l_upperarm
+      parentName: eff_l_clavicle
+      position: {x: -5.551115e-17, y: 3.469447e-17, z: -2.220446e-16}
+      rotation: {x: 0.0083989855, y: 0.14104468, z: 0.05866825, w: 0.98822767}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_l_upperarm
+      parentName: root_l_upperarm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000011625692, y: -0.007489483, z: -0.03680961, w: 0.9992943}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.000001}
+    - name: bone_l_forearm
+      parentName: bone_l_upperarm
+      position: {x: -0.24016154, y: 5.2041704e-18, z: 0}
+      rotation: {x: -0.0016476392, y: 0.0065217637, z: 0.069595546, w: 0.99755263}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000007}
+    - name: eff_l_forearm
+      parentName: bone_l_forearm
+      position: {x: -0.30356613, y: 0.0000410676, z: -0.00007008144}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_l_hand
+      parentName: eff_l_forearm
+      position: {x: -0, y: 8.326673e-17, z: 2.220446e-16}
+      rotation: {x: 0.0032368284, y: 0.02316586, z: -0.13834196, w: 0.99010825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_l_hand
+      parentName: root_l_hand
+      position: {x: -0, y: 1.7347235e-18, z: 0}
+      rotation: {x: 0.0039558797, y: -0.0006178001, z: 0.13610378, w: 0.99068654}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000005}
+    - name: eff_l_hand
+      parentName: bone_l_hand
+      position: {x: -0.12713319, y: -0.000026062131, z: 0.000023794135}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_r_clavicle
+      parentName: eff_ribcage
+      position: {x: 2.220446e-16, y: 1.5959456e-16, z: 3.4987347e-16}
+      rotation: {x: 0.70706606, y: 0.0075929137, z: 0.70706606, w: -0.0075929137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_r_clavicle
+      parentName: root_r_clavicle
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.008401161, y: -0.14116758, z: 0.058809876, w: -0.9882017}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: eff_r_clavicle
+      parentName: bone_r_clavicle
+      position: {x: -0.24010226, y: 0.00008089468, z: -0.00007955645}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_r_upperarm
+      parentName: eff_r_clavicle
+      position: {x: -2.4980018e-16, y: 2.910866e-15, z: 2.220446e-15}
+      rotation: {x: -0.00839849, y: -0.14104465, z: 0.058668323, w: 0.98822767}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_r_upperarm
+      parentName: root_r_upperarm
+      position: {x: -0, y: 0, z: 2.220446e-16}
+      rotation: {x: -0.00001151021, y: -0.00748932, z: 0.036809575, w: -0.9992942}
+      scale: {x: 1.0000013, y: 1.000001, z: 1.0000006}
+    - name: bone_r_forearm
+      parentName: bone_r_upperarm
+      position: {x: -0.24016154, y: 0, z: 0}
+      rotation: {x: -0.0016477493, y: 0.0065217842, z: -0.06959591, w: -0.9975526}
+      scale: {x: 1.0000012, y: 1.0000004, z: 1.0000005}
+    - name: eff_r_forearm
+      parentName: bone_r_forearm
+      position: {x: -0.30356613, y: 0.0000410676, z: 0.00007008144}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_r_hand
+      parentName: eff_r_forearm
+      position: {x: 5.551115e-16, y: -8.326673e-17, z: 0}
+      rotation: {x: -0.0032368284, y: -0.02316586, z: -0.13834196, w: 0.99010825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_r_hand
+      parentName: root_r_hand
+      position: {x: -0, y: 0, z: -2.220446e-16}
+      rotation: {x: 0.0023839937, y: -0.0004466659, z: -0.1361018, w: -0.99069196}
+      scale: {x: 1.0000015, y: 1.0000005, z: 1.0000002}
+    - name: eff_r_hand
+      parentName: bone_r_hand
+      position: {x: -0.12713307, y: -0.000011026859, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hp_weapons
+      parentName: bone_r_hand
+      position: {x: -0.16623272, y: -0.06631732, z: 0.0069252104}
+      rotation: {x: 0.7356259, y: 0.09273545, z: -0.66803443, w: -0.063124545}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_neck
+      parentName: eff_ribcage
+      position: {x: 2.220446e-16, y: 1.5959456e-16, z: -1.9852335e-23}
+      rotation: {x: 0, y: 0, z: 0.7149271, w: 0.699199}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_neck
+      parentName: root_neck
+      position: {x: -0, y: 0, z: 3.9443045e-31}
+      rotation: {x: 0, y: 0, z: -0.7852695, w: 0.61915416}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_head
+      parentName: bone_neck
+      position: {x: -0.13112861, y: 0, z: 5.04871e-29}
+      rotation: {x: -0.0000003384133, y: -0.00000034043472, z: 0.11746101, w: 0.9930775}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: eff_head
+      parentName: bone_head
+      position: {x: -0.19997418, y: 0, z: -2.7885202e-14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rep_inf_ep3spacepilot_helmetvisor
+      parentName: bone_head
+      position: {x: 1.8437208, y: -0.012853996, z: -2.2520665e-13}
+      rotation: {x: -0.49999985, y: 0.5000002, z: 0.49999985, w: 0.5000002}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_pelvis
+      parentName: bone_root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000080093673, y: 0.00000031971683, z: -0.0000002950279, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_r_thigh
+      parentName: bone_pelvis
+      position: {x: 0.09428042, y: -0.10493745, z: 0.00911769}
+      rotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_r_thigh
+      parentName: root_r_thigh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.056378335, y: -0.054674685, z: 0.7156527, w: 0.69402695}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: bone_r_calf
+      parentName: bone_r_thigh
+      position: {x: -0.48, y: -6.938894e-18, z: 0}
+      rotation: {x: 0.0000000372529, y: -0.0000000037252899, z: -0.12963901, w: 0.99156123}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: eff_r_calf
+      parentName: bone_r_calf
+      position: {x: -0.4699999, y: 0.00011447817, z: -0.000055550907}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_r_foot
+      parentName: eff_r_calf
+      position: {x: 5.551115e-17, y: -9.7144515e-17, z: 5.551115e-16}
+      rotation: {x: -0.48232028, y: -0.51945055, z: -0.39313635, w: 0.58564687}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_r_foot
+      parentName: root_r_foot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7101587, y: 0.22480883, z: 0.6360056, w: 0.20157516}
+      scale: {x: 1.0000013, y: 1.000002, z: 1.0000007}
+    - name: bone_r_toe
+      parentName: bone_r_foot
+      position: {x: -0.165, y: 1.3877788e-17, z: -2.7755576e-17}
+      rotation: {x: -0.000000040163282, y: -0.000000011830705, z: 0.30310258, w: 0.952958}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: eff_r_toe
+      parentName: bone_r_toe
+      position: {x: -0.09999997, y: -0.0000020712614, z: -0.000033519565}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_l_thigh
+      parentName: bone_pelvis
+      position: {x: -0.09428042, y: -0.10493745, z: 0.00911769}
+      rotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_l_thigh
+      parentName: root_l_thigh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.05646216, y: 0.05458813, z: 0.71671665, w: 0.69292825}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000008}
+    - name: bone_l_calf
+      parentName: bone_l_thigh
+      position: {x: -0.48, y: 0, z: 0}
+      rotation: {x: 0.0000000074505797, y: -0, z: -0.13268058, w: 0.9911589}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: eff_l_calf
+      parentName: bone_l_calf
+      position: {x: -0.46999988, y: 0.000054374337, z: 0.00007279982}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root_l_foot
+      parentName: eff_l_calf
+      position: {x: -2.7755576e-17, y: 0, z: 1.6653345e-16}
+      rotation: {x: 0.48232052, y: 0.51945037, z: -0.3931366, w: 0.58564657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone_l_foot
+      parentName: root_l_foot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7103127, y: 0.22379668, z: -0.6365136, w: -0.20055221}
+      scale: {x: 1.0000008, y: 1.0000014, z: 1.0000007}
+    - name: bone_l_toe
+      parentName: bone_l_foot
+      position: {x: -0.165, y: 0, z: 0}
+      rotation: {x: -0.000000018830173, y: -0.000000002619344, z: 0.30127463, w: 0.9535374}
+      scale: {x: 1, y: 1.0000011, z: 1.0000006}
+    - name: eff_l_toe
+      parentName: bone_l_toe
+      position: {x: -0.09999997, y: 0, z: 0.000030191819}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
